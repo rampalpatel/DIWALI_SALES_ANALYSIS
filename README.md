@@ -42,12 +42,6 @@ The analysis includes data cleaning, exploratory data analysis (EDA), visualizat
 - Electronics and Clothing are the top-selling categories.
 - Majority of customers are in the age group 26-35.
 - Male and Female customers are almost equally contributing to sales.
-## How to Run
-1. Clone or download the repository
-2. Open the Jupyter Notebook (`Diwali_Sales_Analysis.ipynb`)
-3. Run each cell step-by-step
-4. Ensure `Diwali.csv` file is in the same folder as the notebook
-
 ## Author
 **Rampal Kumar**  
 BSc IT Student | Aspiring Data Analyst
